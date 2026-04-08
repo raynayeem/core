@@ -2,6 +2,10 @@
 
 A full-featured Content Management System for holiday home businesses in Dubai.
 
+## Deployment Documentation
+
+For AWS EC2 Docker deployment with environment setup, see [DEPLOYMENT.md](DEPLOYMENT.md).
+
 ## Features
 
 - **Dark Theme Design** - Modern, professional appearance
